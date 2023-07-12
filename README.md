@@ -6,5 +6,3 @@ newChange!
 
 ccc
 \aa
-
-sss
